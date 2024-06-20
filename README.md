@@ -1,9 +1,7 @@
 <img src="https://blog.sciencemuseum.org.uk/wp-content/uploads/2019/07/giphy-2.gif" style="height:150px;width:1000px;"/>
 
-<p>Meu nome é Renata Araujo</p>
-<p>Sou uma pessoa apaixonada por tecnologia e atualmente estou estudando análise e desenvolvimento de sistemas na universidade Estácio de Sá e também desenvolvimento de software na Trybe. Tenho como hobbies ler, assistir séries e admirar o céu noturno</p>
-
-<p>Conhecimento nunca é demais e ajudar o próximo faz bem</p>
+<p>Olá</p>
+<p>Apenas mais uma estudante :P</p>
 
 ### Skills:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
